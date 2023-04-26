@@ -1,0 +1,32 @@
+.certa{
+    color: green;
+}
+
+p{
+    font-size: 1.2em;
+}
+.pergunta{
+    font-weight: bold;
+    font-size: 1.3em;
+    margin-bottom: 1em;
+}
+
+label{
+    font-size: 1.1em;
+    display: flex;
+    text-align: left;
+}
+
+input{
+    margin-bottom: 2em;
+}
+
+a{
+    font-size: 1.4em;
+    text-decoration: none;
+    color: green;
+}
+
+.resolucao{
+    font-size: 1.4em;
+}
